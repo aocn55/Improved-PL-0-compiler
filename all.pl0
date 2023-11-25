@@ -1,0 +1,16 @@
+const a=3;
+var b,c,arr(2:a);
+float d;
+begin
+	b:=2;
+	b++;
+	c:=4;
+	c--; 
+	d:=2.5;
+	arr(2):=b; 
+	arr(3):=c;
+	if arr(2)=arr(3) then
+		write(float d)
+	else
+		write(var b);
+end.
